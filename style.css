@@ -1,0 +1,33 @@
+.image{
+	height: auto;
+	margin: 8px;
+}
+
+a {
+	margin-left: 20px;
+}
+
+p{
+	text-align: justify;
+	margin-right: 20px;
+}
+
+.content {
+	margin-top: 30px;
+}
+
+h6{
+	font-size: 1em;
+	font-style: italic;
+	text-align: right;
+	margin-right: 3em;
+}
+
+.row{
+	border: solid black 5px;
+	margin-top: 7px;
+}
+
+.holder{
+	border: dashed black 3px;
+}
